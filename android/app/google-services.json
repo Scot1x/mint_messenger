@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "759523510511",
+    "project_id": "mint-messenger-ac493",
+    "storage_bucket": "mint-messenger-ac493.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759523510511:android:6ec69187b17a37a4d7331a",
+        "android_client_info": {
+          "package_name": "com.example.mint_messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759523510511-oh5028sq4a1a43u1it5mc6r5u2hl8qja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkKCyERn3YbguWY1XpFLDr2yU52ZD6c2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759523510511-oh5028sq4a1a43u1it5mc6r5u2hl8qja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
